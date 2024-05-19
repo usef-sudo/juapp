@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843981630732",
+    "project_id": "juinstagaram",
+    "storage_bucket": "juinstagaram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843981630732:android:3241ae21b5a7bac9eb6d29",
+        "android_client_info": {
+          "package_name": "com.example.juinstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIzclcKF2G0rrqVdBm8WN6NJNsKOd_g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
